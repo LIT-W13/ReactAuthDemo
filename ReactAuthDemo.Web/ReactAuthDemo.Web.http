@@ -1,0 +1,6 @@
+@ReactAuthDemo.Web_HostAddress = http://localhost:5136
+
+GET {{ReactAuthDemo.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
